@@ -1,0 +1,6 @@
+formatVersion: 1
+additionalFields: false
+fields:
+  suite: {type: string, required: true}
+  priority: {type: string, required: true, enum: [P1, P2, P3]}
+  automated: {type: boolean, required: true}

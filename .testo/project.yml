@@ -1,0 +1,6 @@
+formatVersion: 1
+name: WLS DSP Core
+product: dsp
+type: core
+caseFormat: structured-markdown-v1
+caseLabelPrefix: TC
